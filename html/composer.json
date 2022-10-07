@@ -17,6 +17,7 @@
         "cakephp/debug_kit": "^4.5",
         "friendsofphp/php-cs-fixer": "^3.11",
         "josegonzalez/dotenv": "^3.2",
+        "phpstan/phpstan": "^1.8",
         "phpunit/phpunit": "~8.5.0 || ^9.3"
     },
     "suggest": {
