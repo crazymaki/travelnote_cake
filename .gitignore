@@ -1,2 +1,8 @@
 .env
 docker/phpmyadmin/sessions
+.idea/.gitignore
+.idea/modules.xml
+.idea/php.xml
+.idea/travelnote.iml
+.idea/vcs.xml
+.idea/inspectionProfiles/Project_Default.xml
